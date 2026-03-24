@@ -87,3 +87,26 @@ Tuned detection logic to reduce false positives and improve the signal-to-noise 
 
 This hands-on experience strengthens my understanding of SOC workflows, including log analysis, alert validation, and rule tuning in a controlled lab environment.
 I am continuously working to expand this lab by incorporating advanced detection use cases and real-world attack simulations.
+
+
+Tech Stack
+
+
+
+SIEM/XDR: Wazuh
+
+Operating Systems: Windows Server 2022, Ubuntu Linux, Windows 10
+
+Virtualization: Oracle VM VirtualBox
+
+Telemetry Tools: Microsoft Sysmon, Windows Event Viewer
+
+Detection Logic: Wazuh XML-based Custom Rules
+
+Networking: Windows Defender Firewall (TCP/UDP Port Management)
+
+Frameworks: MITRE ATT&CK
+
+System Tools: Registry Editor (Regedit), PowerShell, CLI
+
+Environment: Hybrid Infrastructure (Physical & Virtual Integration)
